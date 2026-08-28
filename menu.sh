@@ -70,7 +70,7 @@ show_header() {
 
   echo -e "${CYAN}$BOX_TOP${NC}"
   box_line "${WHITE}${BOLD}CHANELOG VPN TUNNEL MANAGER${NC}"
-  box_line "${PURPLE}PRO EDITION${NC}"
+  box_line "${PURPLE}SC RINGAN FITUR SEADANYA${NC}"
   echo -e "${CYAN}$BOX_MID${NC}"
   box_line "${YELLOW}Domain${NC}   ${WHITE}$domain${NC}"
   box_line "${YELLOW}IP VPS${NC}   ${WHITE}$ip${NC}"
