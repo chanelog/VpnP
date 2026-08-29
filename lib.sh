@@ -1040,7 +1040,7 @@ service_toggle_restart() { systemctl restart "$1" 2>/dev/null || service "$1" re
 # ════════════════════════════════════════════════════════════
 #  AUTO-UPDATE
 # ════════════════════════════════════════════════════════════
-UPDATE_RAW="https://raw.githubusercontent.com/chanelog/xray/main"
+UPDATE_RAW="https://raw.githubusercontent.com/chanelog/VpnP/main"
 VERSION_FILE="$SCRIPT_DIR/VERSION"
 
 get_local_version() {
